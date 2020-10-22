@@ -1,0 +1,4 @@
+#- src: git@github.com:kost2191/docker-role.git
+- src: https://github.com/danilapal/Sopo_hw1.git
+  scm: git
+  version: master
